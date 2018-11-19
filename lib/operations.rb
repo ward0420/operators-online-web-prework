@@ -1,6 +1,6 @@
-def unsafe?(speed)
-  if speed < 40 || speed > 60 = true
-  else speed = false
+def unsafe?(answer)
+  if answer < 40 || answer > 60 = true
+  else answer = false
 end
 
 
