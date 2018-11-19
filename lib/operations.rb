@@ -2,6 +2,7 @@ def unsafe?(answer)
   if answer < 40 || answer > 60
   else answer
 end
+end
 
 
 def not_safe?(answer)
