@@ -1,6 +1,6 @@
 def unsafe?(answer)
-  if answer < 40 || answer > 60 =true
-  else answer =false
+  if answer < 40 || answer > 60 = true
+  else answer = false
 end
 
 
